@@ -1,7 +1,7 @@
 import os
 from typing import List, Dict, Any
 from pathlib import Path
-import PyPDF2
+from pypdf import PdfReader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_core.documents import Document
 
@@ -24,7 +24,7 @@ class DocumentProcessor:
         """Extract text from PDF file."""
         try:
             with open(file_path, 'rb') as file:
-                pdf_reader = PyPDF2.PdfReader(file)
+                pdf_reader = PdfReader(file)
                 text = ""
                 for page in pdf_reader.pages:
                     text += page.extract_text() + "\n"
