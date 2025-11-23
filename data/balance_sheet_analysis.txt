@@ -1,0 +1,32 @@
+
+Balance Sheet Analysis - Year End 2023
+
+Assets: $250,000,000
+Current Assets: $88,000,000 (35.2%)
+- Cash: $45,000,000
+- Accounts Receivable: $28,000,000
+- Inventory: $15,000,000
+
+Non-Current Assets: $162,000,000 (64.8%)
+- Property, Plant & Equipment: $120,000,000
+- Intangible Assets: $35,000,000
+- Investments: $7,000,000
+
+Liabilities: $115,000,000
+Current Liabilities: $35,000,000 (30.4%)
+- Accounts Payable: $20,000,000
+- Short-term Debt: $15,000,000
+
+Non-Current Liabilities: $80,000,000 (69.6%)
+- Long-term Debt: $80,000,000
+
+Shareholders' Equity: $135,000,000
+- Common Stock: $50,000,000
+- Retained Earnings: $85,000,000
+
+Financial Ratios:
+- Current Ratio: 2.51
+- Debt-to-Equity: 0.59
+- Asset Turnover: 0.50
+- Return on Assets: 7.5%
+- Return on Equity: 13.9%

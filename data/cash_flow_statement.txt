@@ -1,0 +1,33 @@
+
+Cash Flow Statement 2023
+
+Operating Activities: $22,000,000
+- Net Income: $18,750,000
+- Depreciation: $2,000,000
+- Changes in Working Capital: $1,250,000
+  - Accounts Receivable: -$3,000,000
+  - Inventory: -$2,000,000
+  - Accounts Payable: +$2,000,000
+  - Other: +$4,250,000
+
+Investing Activities: -$15,000,000
+- Capital Expenditures: -$12,000,000
+- Acquisitions: -$3,000,000
+
+Financing Activities: -$5,000,000
+- Debt Repayment: -$8,000,000
+- Dividends Paid: -$3,000,000
+- New Debt Issued: +$6,000,000
+
+Net Change in Cash: +$2,000,000
+Beginning Cash: $43,000,000
+Ending Cash: $45,000,000
+
+Free Cash Flow: $10,000,000
+(Operating Cash Flow - Capital Expenditures)
+
+Cash Flow Trends:
+- Strong operating cash flow generation
+- Positive free cash flow
+- Adequate cash reserves for operations
+- Capacity for strategic investments

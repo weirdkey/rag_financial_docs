@@ -1,0 +1,32 @@
+
+Quarterly Financial Statements - Q4 2023
+
+Income Statement:
+Revenue: $35,000,000
+Cost of Goods Sold: $21,000,000
+Gross Profit: $14,000,000
+Operating Expenses: $8,750,000
+Operating Income: $5,250,000
+Net Income: $4,200,000
+
+Balance Sheet (as of Dec 31, 2023):
+Assets:
+- Cash and Cash Equivalents: $45,000,000
+- Accounts Receivable: $28,000,000
+- Inventory: $15,000,000
+- Property, Plant & Equipment: $162,000,000
+Total Assets: $250,000,000
+
+Liabilities:
+- Accounts Payable: $20,000,000
+- Short-term Debt: $15,000,000
+- Long-term Debt: $80,000,000
+Total Liabilities: $115,000,000
+
+Shareholders' Equity: $135,000,000
+
+Cash Flow Statement:
+Operating Activities: $22,000,000
+Investing Activities: -$15,000,000
+Financing Activities: -$5,000,000
+Net Change in Cash: $2,000,000

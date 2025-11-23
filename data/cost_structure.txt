@@ -1,0 +1,32 @@
+
+Cost Structure Analysis 2023
+
+Total Operating Costs: $106,250,000
+
+Cost Breakdown:
+1. Cost of Goods Sold: $75,000,000 (70.6%)
+   - Raw materials: $45,000,000
+   - Labor: $20,000,000
+   - Manufacturing overhead: $10,000,000
+
+2. Operating Expenses: $31,250,000 (29.4%)
+   - Sales & Marketing: $15,000,000 (14.1%)
+   - Research & Development: $8,000,000 (7.5%)
+   - General & Administrative: $6,250,000 (5.9%)
+   - Depreciation: $2,000,000 (1.9%)
+
+Cost Efficiency Metrics:
+- Gross Margin: 40%
+- Operating Margin: 15%
+- EBITDA Margin: 18%
+
+Cost Trends:
+- COGS as % of revenue: 60% (stable)
+- Operating expenses as % of revenue: 25% (improving)
+- R&D as % of revenue: 6.4% (increasing)
+
+Cost Optimization Initiatives:
+- Supply chain optimization: $2M savings
+- Process automation: $1.5M savings
+- Vendor consolidation: $1M savings
+- Total savings: $4.5M annually
